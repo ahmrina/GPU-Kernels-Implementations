@@ -13,7 +13,7 @@ This document is used to note tasks completed along with what was larned during 
 - Got familiarized with using `cudaGetDevice()`, `cudaMallocManaged()`, `cudaDeviceSynchronize()` and learned when to use them. `vectorAddition.cu` adds two vectors and prints out the results.
 ---
 
-#Day 2
+# Day 2
 
 ## Filename: `matrixAddition.cu`
 
