@@ -6,8 +6,8 @@ This document is used to note tasks completed along with what was larned during 
 
 # Day 1
 
-## Filename: `addVector.cu`
+## Filename: `vectorAddition.cu`
 
 #### Summarization of Day 1
 
-- Got familiarized with using `cudaGetDevice()`, `cudaMallocManaged()`, `cudaDeviceSynchronize()` and learned when to use them. `addVector.cu` adds two vectors and prints out the results.
+- Got familiarized with using `cudaGetDevice()`, `cudaMallocManaged()`, `cudaDeviceSynchronize()` and learned when to use them. `vectorAddition.cu` adds two vectors and prints out the results.
