@@ -20,3 +20,12 @@ This document is used to note tasks completed along with what was larned during 
 #### Summarization of Day 2
 - Learned how to utilize `cudaError_t` and working and using dim3 for setting size for `block_size` and `grid_size`.
 - Resources used: CUDA by Example by Jason Sanders & Edward Kandrot. 
+
+---
+
+# Day 3
+
+## Filename: `matrix_vector_mult`
+#### Summarization of Day 3
+- Focused on reading Chapter 4 of PMPP book.
+- Learned how to calculate the dot product through multiple threads. 
