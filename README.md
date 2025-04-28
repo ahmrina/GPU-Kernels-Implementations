@@ -25,7 +25,7 @@ This document is used to note tasks completed along with what was larned during 
 
 # Day 3
 
-## Filename: `matrix_vector_mult`
+## Filename: `matrix_vector_mult.cu`
 #### Summarization of Day 3
 - Focused on reading Chapter 4 of PMPP book.
 - Learned how to calculate the dot product through multiple threads. 
