@@ -29,3 +29,11 @@ This document is used to note tasks completed along with what was larned during 
 #### Summarization of Day 3
 - Focused on reading Chapter 4 of PMPP book.
 - Learned how to calculate the dot product through multiple threads. 
+
+---
+# Day 4
+## Filename: `prefixSum.cu`
+#### Summarization of Day 4
+- Learned about using `__shared__` with CUDA and allocating memory for it. Read this article by NVIDIA: https://developer.nvidia.com/blog/using-shared-memory-cuda-cc/
+- Learned how and when to use `__syncthreads()` inside the kernel.
+- Got familiar with using `compute-sanitizer`, which helped finding in detail any issue inside the kernel. 
